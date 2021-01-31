@@ -11,6 +11,7 @@ Electronics and Tele-communication Engineer graduated from The University of Mum
 Data enthusiast with experience in SQL | Python | R | Java | Tableau | Power BI | Alteryx | ML studio
 
 Functional Expertise - Machine Learning | BI Reporting | ETL | Data Modeling | Predictive Analytics | Root Cause Analysis
+
 Certifications
 --------------
 1] Oracle Certified Associate Java Programmer
@@ -20,6 +21,7 @@ Certifications
 3] Tableau Desktop Specialist
 
 4] Google Analytics
+
 Professional Experience
 ------------------------
 Business Intelligence - Product Development Intern @ RateGain 
@@ -29,6 +31,7 @@ Business Development - Customer Success Intern @ RateGain
 Associate Software Engineer @ Accenture
 
 Data Analyst Intern @ Vinrak Technologies Pvt. Ltd.
+
 Projects
 --------
 1]  Predictive Analytics, UTD  ---- Coursework 
