@@ -6,7 +6,7 @@ About Me
 
 Graduate Student at the University Of Texas at Dallas (Information Technology & Management)
 
-Electronics and Tele-communication Engineer graduated from The University of Mumbai
+Electronics and Tele-communication Engineer, graduated from The University of Mumbai
 
 Data enthusiast with experience in SQL | Python | R | Java | Tableau | Power BI | Alteryx | ML studio
 
