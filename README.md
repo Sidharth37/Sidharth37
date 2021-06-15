@@ -8,7 +8,7 @@ Graduate Student at the University Of Texas at Dallas (Information Technology & 
 
 Electronics and Tele-communication Engineer, graduated from The University of Mumbai
 
-Data enthusiast with experience in SQL | Python | R | Java | Tableau | Power BI | Alteryx | ML studio
+Data enthusiast with experience in SQL | Python | Java | Tableau | Power BI | Alteryx | Talend | ML studio
 
 Functional Expertise - Machine Learning | BI Reporting | ETL | Data Modeling | Predictive Analytics | Root Cause Analysis
 
