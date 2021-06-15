@@ -10,17 +10,17 @@ Electronics and Tele-communication Engineer, graduated from The University of Mu
 
 Data enthusiast with experience in SQL | Python | Java | Tableau | Power BI | Alteryx | Talend | ML studio
 
-Functional Expertise - Machine Learning | BI Reporting | ETL | Data Modeling | Predictive Analytics | Root Cause Analysis
+Functional Expertise - Machine Learning | BI Reporting | ETL | Data Management | Predictive Analytics | Natural Language Processing
 
 Certifications
 --------------
-1] Oracle Certified Associate Java Programmer
+1] Microsoft Certified Associate Data Analyst
 
-2] Microsoft Certified Associate Data Analyst
+2] Tableau Desktop Specialist
 
-3] Tableau Desktop Specialist
+3] AWS Certified Cloud Practitioner
 
-4] Google Analytics
+4] Oracle Certified Associate Java Programmer
 
 Professional Experience
 ------------------------
